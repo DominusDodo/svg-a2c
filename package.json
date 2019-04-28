@@ -1,0 +1,11 @@
+{
+  "name": "svg-a2c",
+  "version": "1.0.0",
+  "description": "An extraction of the a2c function from svgpath",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
