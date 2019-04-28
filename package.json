@@ -6,6 +6,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Daniel Wheeler",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominusDodo/svg-a2c.git"
+  },
+  "keywords": [
+    "svg",
+    "js",
+    "path",
+    "ellipse",
+    "elliptical",
+    "bezier",
+    "curve"
+  ],
+  "bugs": {
+    "url": "https://github.com/DominusDodo/svg-a2c/issues"
+  },
+  "homepage": "https://github.com/DominusDodo/svg-a2c#readme"
 }
